@@ -10,7 +10,7 @@
 <img src="https://shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <h4>I am currently learning <img src="https://shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <h2>About The Project:</h2>
-<p>This project is called "My-Grocery-List". In a project, you can record a list of products that you need to buy at the grocery store. After making a purchase, each product can be crossed out in the list and then, if you wish, remove it from the list.</p>
+<p>This project is called "My-Grocery-List". In a project, you can write a list of products that you need to buy at the grocery store. After making a purchase, each product can be crossed out in the list and then, if you wish, remove it from the list.</p>
 <h2>Built with:</h2>
 <h3><img src="https://shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
