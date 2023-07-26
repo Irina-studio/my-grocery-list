@@ -43,7 +43,6 @@ e.preventDefault()
 
     render(){
         return(
-            <div>
             <form onSubmit={this.onFormSubmit}>
             <div className="container">
                <input type="text"
@@ -65,9 +64,7 @@ e.preventDefault()
             <div className="container">
                 <button onClick={() => this.deleteItem()} className="delete btn">Delete</button>
             </div>
-            </form>
-            </div>
-            
+            </form>   
         )
     }
 }
